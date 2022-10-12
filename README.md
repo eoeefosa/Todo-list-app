@@ -28,11 +28,11 @@ in the lib folder the following files are present
                     remove item
             this class extends the changenotifier
 
-  ### main.dart
+  ### main
         It has a change NotifierProvider which acts as a parent to the material app .This was done because this is a small app .in large app place Provider at the top of the widget that needs the data and not on top
 
- ### Item_list.dart
+ ### Item_list
         create a LIstview builder of the data comming from the list of item. it uses the consumer to get the data.
- ### home.dart
+ ### home
         This contains the data that is to be displayed on the screen which is given by the user through the Textformfield and a material button .
 
