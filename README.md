@@ -5,7 +5,9 @@
 ![Screenshot_1665586005](https://user-images.githubusercontent.com/84554840/195376784-ecd2d70c-03cf-4c9a-858b-4c27063f8f44.png)
 ![Screenshot_1665586044](https://user-images.githubusercontent.com/84554840/195377255-f0b6afd7-3473-4e4d-a8f8-3ca624af29a5.png)
 
-A  simple example using provider package.
+A todo list app using provider package.
+
+It allow you create a task and strike the task when it is complete or remove the task completely
 
 ### Description
 
