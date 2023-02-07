@@ -1,4 +1,4 @@
-### simple_example_app_provider
+### Todo list app
 
 ![Screenshot_1665583828](https://user-images.githubusercontent.com/84554840/195376364-1ccdc437-1954-4cd3-8f37-163edda14ee0.png)
 ![Screenshot_1665586040](https://user-images.githubusercontent.com/84554840/195376893-323f85b7-bebb-4031-b649-fbf7d37f079f.png)
