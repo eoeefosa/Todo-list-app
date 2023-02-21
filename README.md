@@ -1,4 +1,5 @@
 ### Todo list app
+This todo list app helps you stay organized and on top of your tasks. With its simple and intuitive interface, you can easily add, edit, and check off items on your to-do list, making it a valuable tool for both personal and professional use.
 
 ![Screenshot_1665583828](https://user-images.githubusercontent.com/84554840/195376364-1ccdc437-1954-4cd3-8f37-163edda14ee0.png)
 ![Screenshot_1665586040](https://user-images.githubusercontent.com/84554840/195376893-323f85b7-bebb-4031-b649-fbf7d37f079f.png)
